@@ -1,0 +1,6 @@
+{
+  "name": "中国传统喜纹样智能生成器",
+  "description": "基于七类饰带群理论与极坐标转换的传统婚庆喜纹样数字化生成、预览与应用展示平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
